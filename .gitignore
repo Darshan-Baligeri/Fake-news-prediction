@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.db
+*.sqlite3
+
+# Flask and environment files
+instance/
+*.py[cod]
+*.sqlite
+*.db
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Dependency directories
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Other
+*.log
+*.pot
+*.mo
+*.bak
+*.swp
